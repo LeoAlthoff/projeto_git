@@ -1,0 +1,3 @@
+Olá, Git!
+Git é muito legal!
+Desenvolver um aplicativo para auxiliar a mesa de RPG.
